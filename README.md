@@ -1,6 +1,6 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://prashant744.io)
 <h1 align="center">Hi 👋, I'm Prashant Dhote</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate full Stack developer & Competiteve Coder from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant744" alt="prashant744" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@prashan90047321" target="blank"><img src="https://img.shields.io/twitter/follow/@prashan90047321?logo=twitter&style=for-the-badge" alt="@prashan90047321" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@prashant_dhote_" target="blank"><img src="https://img.shields.io/twitter/follow/@prashant_dhote_?logo=twitter&style=for-the-badge" alt="@prashant_dhote_" /></a> </p>
 
 - 🔭 I’m currently working on **Quiz Management**
 
