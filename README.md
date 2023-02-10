@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=prashant744&icon=4&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 Coding Profile
-  [![LeetCode](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://leetcode.com/prashant_74/) [![CodeChef](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://www.codechef.com/users/prashant_744) 
+  [![LeetCode](https://img.shields.io/static/v1?label=&message=LeetCode&color=%3Cblueviolet%3E)](https://leetcode.com/prashant_74/) [![CodeChef](https://img.shields.io/static/v1?label=&message=CodeChef&color=9cf)](https://www.codechef.com/users/prashant_744) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
