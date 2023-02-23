@@ -1,5 +1,9 @@
 # Hey I'm Prashant Dhote 👋
-🔭 I’m contributing towards open source.<br>🤔 A passionate full Stack developer & Competiteve Coder<br>💬 Ask me about anything<br>📫 How to reach me: prashantdhote400@gmail.com<br>⚡ Fact : Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.
+- 🔭 I’m contributing towards open source.<br>
+- 🤔 A passionate full Stack developer & Competiteve Coder<br>
+- 💬 Ask me about anything<br>
+- 📫 How to reach me: prashantdhote400@gmail.com<br>
+- ⚡ Fun Fact :  I think I am too curious.
 
 
 ## 🌐 Socials:
