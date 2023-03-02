@@ -3,7 +3,7 @@
 - 🤔 A passionate full Stack developer & Competiteve Coder<br>
 - 💬 Ask me about anything<br>
 - 📫 How to reach me: prashantdhote400@gmail.com<br>
-- ⚡ Fun Fact :  I think I am too curious.
+- ⚡ Fun Fact :  I think , I am too curious.
 
 
 ## 🌐 Socials:
